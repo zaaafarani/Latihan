@@ -19,7 +19,11 @@
     font-size: 90px;
     font-family: "Agbalumo", system-ui;
     font-weight: 400;
-    font-style: normal;
+    text-shadow: 
+        -2px -2px 0 #000,  /* Top-left */
+         2px -2px 0 #000,  /* Top-right */
+        -2px  2px 0 #000,  /* Bottom-left */
+         2px  2px 0 #000;  /* Bottom-right */
 }
 
 .Batik h3 {
