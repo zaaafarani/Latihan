@@ -1,0 +1,26 @@
+.box-model {
+    width: 80px 80px;
+    padding: 35px;
+    border: 40px solid palevioletred;
+    margin: 60px;
+    background-color: aquamarine;
+    text-align: justify;
+    position: relative;
+}
+
+.outline p {
+    text-align: center;
+    color:blueviolet;
+    padding: 10px;
+    outline-style: dotted;
+    outline-color: black;
+    outline-width: 5px;
+    outline-offset: 10px;
+    background-color: brown;
+}
+.icons {
+   padding-top: 20px;
+}
+.fa-brands fa-instagram.fa-10x {
+    
+}
